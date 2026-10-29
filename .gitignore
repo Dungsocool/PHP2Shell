@@ -1,0 +1,5 @@
+raw.txt
+.private/
+*.pyc
+__pycache__/
+results.json
