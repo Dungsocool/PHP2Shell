@@ -145,9 +145,3 @@ alert http any any -> any any (msg:"PHP2SHELL upload_progress injection";
 ## Disclaimer
 
 This repository is for **authorized security research and educational purposes only**. All tools are designed for use against systems you own or have explicit permission to test. Unauthorized access to computer systems is illegal.
-
-## Author
-
-Security research and analysis by [@dtd842005](https://github.com/dtd842005)
-
-Based on original discovery by Qi Deng ([@ikow](https://github.com/ikow))
